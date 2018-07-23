@@ -1,6 +1,5 @@
-﻿                           class : 4206138
+﻿                          class : 4206138
                          android : 3152340
-                             api : 2566222
                        reference : 2532532
                             code : 2459189
                         apilevel : 2042961
