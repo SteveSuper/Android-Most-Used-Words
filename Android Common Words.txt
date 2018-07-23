@@ -34,8 +34,6 @@
                             ask : 928
                             asn : 183
                             ati : 9
-                            aud : 1
-                            aug : 7
                             avg : 55
                             avi : 7
                             bad : 1568
