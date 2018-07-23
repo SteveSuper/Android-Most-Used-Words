@@ -1,0 +1,2267 @@
+﻿ aaa : 8
+ abc : 1925
+ abs : 5859
+ acc : 12
+ ace : 46
+ acm : 9
+ act : 194
+ ada : 3
+ add : 46406
+ ads : 252
+ age : 159
+ ago : 25
+ aid : 284
+ aim : 17
+ air : 46
+ aka : 84
+ all : 77098
+ alt : 21855
+ amd : 31
+ amp : 21425
+ ana : 3
+ and : 192898
+ ant : 14
+ any : 22775
+ api : 2566222
+ app : 286334
+ apr : 4
+ apt : 7
+ arc : 497
+ are : 42807
+ arg : 19034
+ arm : 76
+ art : 857
+ ask : 928
+ asn : 183
+ ati : 9
+ aud : 1
+ aug : 7
+ avg : 55
+ avi : 7
+ bad : 1568
+ ban : 2
+ bar : 36576
+ bat : 3
+ bay : 3
+ bbc : 3
+ bed : 1
+ ben : 5
+ bet : 4
+ bid : 1
+ big : 7392
+ bin : 40
+ bit : 4857
+ biz : 2
+ bob : 29
+ bon : 1
+ box : 3158
+ boy : 6
+ buf : 354
+ bug : 113
+ bus : 39
+ but : 8470
+ buy : 51
+ bye : 1
+ cab : 41
+ cad : 1
+ cal : 559
+ cam : 2
+ can : 36717
+ cap : 815
+ car : 1854
+ cas : 29
+ cat : 54
+ cbs : 7
+ cdt : 1
+ ceo : 1
+ cet : 1
+ chi : 3
+ cho : 363
+ con : 794
+ cos : 99
+ cpu : 508
+ crm : 1
+ css : 46404
+ cst : 4
+ cup : 19
+ cut : 209
+ dad : 5
+ dam : 1
+ dan : 726
+ das : 1
+ dat : 3
+ day : 4056
+ dec : 47
+ dee : 1
+ def : 2316
+ del : 68
+ den : 24
+ der : 144
+ des : 311
+ dev : 6152
+ did : 279
+ die : 387
+ dig : 41
+ dim : 6240
+ dip : 74
+ dir : 3686
+ dns : 404
+ doc : 13121
+ doe : 5
+ dog : 9
+ dom : 41579
+ don : 1464
+ dos : 4
+ dot : 663
+ dow : 60
+ dpi : 242
+ dry : 5
+ dts : 47
+ due : 1063
+ ear : 4
+ eat : 6
+ edt : 14
+ end : 124514
+ eng : 18
+ ent : 3
+ eos : 5
+ era : 344
+ est : 43
+ etc : 1910
+ eur : 4
+ exp : 184
+ ext : 12262
+ eye : 91
+ fan : 43
+ faq : 122
+ far : 326
+ fat : 2
+ fax : 43
+ fcc : 8
+ feb : 21
+ fed : 7
+ fee : 8
+ few : 328
+ fig : 16
+ fit : 2975
+ fix : 183
+ fly : 14
+ fog : 98
+ foo : 534
+ for : 303978
+ fox : 5
+ fri : 9
+ ftp : 37
+ fun : 36
+ gap : 361
+ gas : 30
+ gba : 19
+ gbp : 1
+ gcc : 2
+ gen : 1095
+ geo : 76
+ get : 246049
+ gif : 54
+ gmc : 2
+ gmt : 724
+ gnu : 4
+ got : 65
+ gps : 1304
+ gsm : 10836
+ gui : 13
+ gun : 2
+ gym : 1
+ had : 1074
+ has : 46574
+ hat : 79
+ her : 32
+ him : 9
+ hip : 1
+ his : 49
+ hit : 722
+ hop : 11
+ hot : 322
+ how : 39848
+ hrs : 33
+ hub : 37
+ ibm : 20
+ ice : 186
+ icq : 13
+ ide : 16
+ ids : 1692
+ iii : 4
+ ill : 44
+ img : 39496
+ inc : 738
+ ind : 16
+ inf : 47
+ ing : 30
+ ink : 25
+ ins : 21
+ int : 411251
+ irc : 2
+ iso : 1463
+ isp : 6
+ ist : 2
+ its : 34700
+ jan : 107
+ jar : 11713
+ jet : 1510
+ job : 13557
+ joe : 4
+ jon : 18
+ joy : 3
+ jpg : 2580
+ jul : 11
+ jun : 6
+ kai : 21
+ ken : 2
+ key : 87945
+ kid : 2
+ kit : 138
+ lab : 159
+ lat : 16
+ law : 50
+ lay : 68
+ lcd : 2
+ led : 64
+ len : 1065
+ leo : 7
+ les : 8
+ let : 625
+ lib : 69
+ lid : 7
+ lie : 36
+ lit : 103
+ liz : 1
+ loc : 144
+ log : 5633
+ los : 427
+ lot : 94
+ low : 4332
+ ltd : 3
+ mac : 562
+ mad : 21
+ mag : 75
+ mai : 2
+ man : 589
+ map : 20719
+ mar : 13
+ mat : 112
+ max : 9067
+ may : 18727
+ med : 97
+ mem : 32
+ men : 1
+ met : 104
+ mhz : 146
+ mic : 55
+ mid : 6044
+ mil : 6
+ min : 5122
+ mit : 1
+ mix : 111
+ mod : 209
+ mon : 31
+ msg : 807
+ msn : 12
+ nbc : 1
+ nec : 23
+ new : 42970
+ non : 7082
+ nor : 506
+ not : 51568
+ nov : 29
+ now : 3991
+ nut : 1
+ obj : 6818
+ oct : 23
+ odd : 100
+ oem : 5
+ off : 10361
+ oil : 2
+ old : 1480
+ one : 24518
+ ons : 47
+ opt : 434
+ our : 477
+ out : 12867
+ own : 3209
+ pac : 42
+ pad : 681
+ pal : 33
+ pan : 66
+ par : 7
+ pas : 8
+ pat : 64
+ pay : 80
+ pci : 5
+ pcs : 4
+ pct : 6
+ pda : 10
+ pdf : 21116
+ pdt : 45
+ pen : 29
+ per : 1923
+ pgp : 8
+ php : 8
+ pic : 6
+ pie : 48
+ pin : 305
+ pix : 140
+ pop : 1644
+ pos : 813
+ ppc : 2
+ pro : 72
+ psi : 4
+ pst : 19
+ pts : 25
+ pty : 2
+ pub : 31
+ put : 4112
+ que : 367
+ qui : 1
+ ram : 156
+ ran : 8
+ rat : 10
+ raw : 6497
+ rec : 296
+ red : 607
+ ref : 11201
+ reg : 106
+ rep : 675
+ res : 46302
+ rev : 88
+ rfc : 1255
+ rid : 3
+ rio : 363
+ rip : 6
+ rod : 30
+ rom : 2
+ row : 36771
+ rpg : 1
+ rpm : 3
+ rss : 8
+ run : 8718
+ sad : 15
+ sam : 3
+ san : 2
+ sap : 28
+ sat : 46
+ saw : 16
+ say : 122
+ sci : 2
+ sea : 12
+ sec : 92
+ see : 26154
+ sep : 21
+ seq : 87
+ set : 203613
+ she : 16
+ sic : 2
+ sie : 1
+ sig : 172
+ sim : 512
+ sin : 130
+ sip : 13993
+ sir : 1
+ sit : 37
+ six : 57
+ ski : 2
+ sku : 57
+ sky : 14
+ sms : 7892
+ sol : 5
+ son : 1
+ spy : 7
+ sql : 41361
+ src : 95287
+ ssl : 31920
+ std : 45
+ str : 476
+ sub : 26981
+ sum : 11128
+ sun : 126
+ sur : 10
+ sys : 232
+ tab : 29277
+ tag : 18488
+ tan : 45
+ tap : 1083
+ tar : 1
+ tax : 8
+ tba : 1
+ tcp : 278
+ tea : 1
+ tee : 20
+ tel : 46
+ ten : 71
+ tex : 1272
+ the : 826142
+ thu : 7
+ tie : 10
+ tim : 12
+ tip : 92
+ tmp : 53
+ toe : 1
+ tom : 3
+ ton : 27
+ too : 1482
+ top : 73971
+ toy : 40
+ tri : 363
+ try : 5277
+ tue : 20
+ two : 11797
+ und : 12
+ une : 12
+ uni : 2
+ ups : 5
+ uri : 34853
+ url : 19364
+ usa : 39
+ usb : 14652
+ usc : 2
+ usd : 24
+ use : 43084
+ usr : 19
+ utc : 378
+ val : 831
+ var : 35138
+ vcr : 5
+ ver : 5
+ via : 3053
+ vid : 4
+ vol : 11
+ von : 4
+ vpn : 838
+ wal : 3
+ wan : 2
+ war : 7
+ was : 14859
+ wav : 28
+ wax : 2
+ way : 5701
+ web : 15308
+ wed : 23
+ wet : 1
+ who : 1728
+ why : 195
+ win : 43
+ wma : 7
+ won : 203
+ wow : 2
+ www : 48797
+ yen : 10
+ yes : 12582
+ yet : 1691
+ you : 28599
+ zen : 508
+ zip : 18661
+ zoo : 5
+aamp : 18
+aand : 10
+aapt : 121
+abab : 2
+abad : 1
+abbr : 148
+abcd : 3
+abgr : 78
+abis : 74
+able : 1441
+abut : 1
+acct : 15
+acer : 4
+acme : 13
+acos : 42
+acre : 26
+acts : 167
+adap : 2
+adar : 26
+addr : 741
+adds : 2753
+adia : 1
+adid : 1
+adif : 1
+adts : 25
+adve : 2
+aeaa : 1
+aead : 165
+aero : 2
+afce : 1
+afin : 2
+afte : 2
+aged : 8
+ages : 86
+aget : 35
+agps : 1
+ahom : 15
+aide : 2
+aidl : 629
+aids : 63
+aiff : 8
+aims : 9
+ains : 48
+aitc : 1
+ajax : 4
+ajur : 8
+akin : 3
+alas : 1
+alaw : 21
+alef : 5
+alex : 3
+also : 17922
+alts : 47
+amet : 1
+ammx : 2
+ampm : 23
+andy : 5
+anim : 12499
+anmp : 1
+anno : 10
+anon : 35
+ansi : 34
+ante : 1
+anti : 128
+anyg : 1
+aosp : 27
+aout : 346
+apdu : 515
+apez : 1
+apis : 149
+apks : 1949
+apns : 19
+apos : 12
+appp : 2
+apps : 61229
+appt : 6
+aput : 35
+aqua : 36
+arab : 3
+aran : 1
+arch : 44
+arcs : 3
+area : 2912
+aren : 128
+argb : 1046
+args : 1626
+argv : 6
+arib : 5
+armv : 3
+arpa : 2
+arpu : 3
+arsc : 3
+arts : 21
+asap : 1
+asia : 5
+asin : 40
+asks : 45
+aslr : 3
+aspx : 3
+astc : 284
+asus : 5
+atan : 112
+atob : 1
+atom : 594
+atop : 196
+atqa : 8
+atqb : 6
+atsc : 39
+attr : 31432
+atts : 53
+audi : 2
+auml : 2
+aura : 1
+auth : 42719
+auto : 54164
+avds : 11
+avec : 2
+avis : 1
+away : 566
+awry : 1
+axes : 1212
+axis : 5203
+ayin : 5
+azcg : 2
+azys : 2
+baba : 5
+baby : 1
+back : 37434
+baff : 1
+bags : 4
+bail : 1
+bais : 3
+bajo : 363
+ball : 10
+band : 216
+bank : 9
+bare : 53
+bars : 2760
+base : 19451
+bash : 1
+bass : 343
+bcda : 1
+bcld : 5953
+bdec : 1
+beam : 1845
+bean : 679
+bear : 11
+beat : 49
+bebf : 1
+becf : 1
+been : 13402
+beep : 34
+bell : 1
+benz : 1
+best : 15706
+beta : 813
+beth : 10
+bfac : 1
+bfor : 3
+bggr : 17
+bgra : 25
+bias : 142
+bidi : 826
+bids : 1
+bien : 1
+bike : 2
+bill : 4
+bind : 6423
+bins : 13
+bits : 2454
+blah : 6
+blas : 611
+blit : 10
+blnk : 3
+blob : 1047
+blog : 6032
+blow : 1
+blue : 522
+blur : 1172
+bmgr : 21
+bnnm : 10
+body : 56178
+boil : 1
+bokm : 1
+bold : 6220
+bond : 97
+book : 2068
+bool : 1086
+boot : 756
+born : 1
+bose : 18
+both : 9716
+bots : 4
+bsic : 18
+btle : 16
+buff : 3
+bufs : 10
+bugs : 64
+bulk : 234
+bull : 73
+bump : 23
+burn : 41
+busy : 582
+butt : 8
+buys : 2
+buyt : 2
+buzz : 26
+byod : 1
+byte : 15210
+caen : 18
+cake : 2
+calc : 10
+call : 18779
+came : 83
+cant : 94
+caps : 772
+card : 13329
+care : 565
+cars : 8
+cart : 365
+case : 7628
+cash : 18
+cast : 1289
+catc : 5
+cats : 1
+cbll : 4
+cbrt : 43
+cbuf : 96
+ccff : 1
+cchc : 1
+ccho : 1
+ccmp : 13
+ccpp : 2
+cdat : 3
+cdbc : 1
+cdfd : 1
+cdma : 11239
+cede : 1
+ceil : 49
+cell : 15408
+cenc : 3
+cent : 1
+cept : 15
+cert : 32013
+cfid : 2
+cgla : 1
+cham : 49
+char : 24973
+chat : 427
+chco : 4
+cher : 54
+chez : 2
+chin : 10
+chip : 5
+choc : 1
+chop : 2
+chou : 25
+chpr : 36
+chup : 2
+cima : 37
+cita : 1
+cite : 163
+citi : 15
+city : 67
+cjkv : 3
+clas : 1
+cldr : 99
+clip : 10744
+clob : 1092
+clss : 11
+clue : 5
+cmas : 22
+cmda : 3
+cmmb : 10
+cmpg : 10
+cmpl : 10
+cnap : 3
+cnav : 21
+cnse : 1
+cocy : 2
+code : 2459189
+coin : 4
+cold : 20
+coll : 19
+cols : 53805
+come : 233
+comm : 5
+como : 2904
+comp : 15
+conf : 20
+conj : 10
+conn : 32371
+cons : 65
+cont : 14
+conv : 14
+cook : 1
+cool : 23
+coop : 2
+cope : 2
+copy : 10145
+cord : 1
+core : 827
+corp : 21
+cosh : 43
+cost : 206
+cosu : 54
+cpbr : 1
+cphs : 25
+cpvr : 1
+cran : 1
+crew : 1
+crit : 15
+crlf : 7
+crls : 9
+crop : 416
+crtp : 1
+crud : 1
+csim : 21
+csrc : 3
+csyr : 18
+ctia : 1
+ctor : 1065
+ctrl : 148
+cube : 440
+cues : 19
+cull : 104
+curl : 1
+curr : 83
+cust : 2
+cute : 1
+cvvm : 19
+cyan : 8
+cyrl : 8
+cyyy : 2
+daaa : 1
+daec : 1
+danh : 363
+dans : 6
+dark : 1349
+dash : 685
+data : 421050
+date : 24909
+dave : 1
+dawn : 1
+days : 1381
+dbaf : 1
+dbba : 1
+dbbf : 1
+dbeb : 1
+dbff : 9
+dbms : 19
+dcim : 13
+ddms : 40
+ddos : 2
+dead : 685
+deaf : 6
+deal : 108
+deba : 2
+deck : 1
+decl : 252
+decr : 46
+dede : 3
+deem : 2
+deep : 1470
+deer : 4
+defl : 8
+defs : 22
+deja : 11
+dell : 3
+demo : 148
+dend : 70
+dent : 1
+deny : 65
+dept : 3
+desc : 281
+desk : 117
+dest : 1406
+deux : 1
+deva : 2
+dfdb : 1
+dfff : 18
+dflt : 4
+dgen : 1
+dger : 18
+dhcp : 185
+diag : 292
+dial : 267
+diap : 1
+dice : 5
+dick : 2
+dict : 1
+didn : 85
+died : 281
+dies : 14
+diff : 29030
+digi : 2
+dims : 60
+dimx : 12
+dips : 27
+dirs : 1403
+dirt : 3
+disc : 91
+dise : 12323
+disk : 380
+dist : 15
+dive : 10
+divs : 3
+dlut : 397
+dmca : 1
+dnum : 1
+dock : 343
+docs : 15635
+does : 8758
+dogs : 12
+doit : 4
+dojo : 1
+doll : 5
+done : 2039
+dont : 170
+door : 17
+dots : 487
+doug : 3
+down : 36912
+doze : 925
+dpad : 1064
+dpcm : 1
+dper : 1
+dpis : 4
+dpof : 7
+dpos : 1
+drag : 16029
+draw : 11980
+drew : 3
+drop : 5860
+drug : 2
+drum : 5
+dspr : 36
+dsts : 75
+dsyr : 54
+dtds : 2
+dtfg : 3
+dtmb : 10
+dtmf : 476
+dual : 98
+duck : 25
+duff : 3807
+duke : 13
+dumb : 4
+dump : 1047
+dung : 363
+duty : 6
+dvav : 36
+dvhe : 108
+dwmm : 2
+dxtc : 2
+dyne : 1
+eabi : 4
+each : 9114
+earn : 5965
+ease : 52
+east : 171
+easy : 1187
+ebcb : 1
+ecce : 1
+ecdh : 48
+ecds : 1
+echo : 134
+ecio : 20
+edge : 17517
+edit : 5736
+edof : 32
+edom : 5
+eeee : 7
+efbf : 1
+efcf : 1
+efgh : 1
+egid : 3
+egov : 2
+eidt : 1
+eims : 5
+eine : 1
+eisu : 7
+elem : 3
+elit : 1
+elle : 1
+else : 1492
+elul : 11
+emit : 16
+emma : 9
+emop : 2
+emun : 1
+ends : 400
+enim : 1
+enth : 1
+enum : 14826
+envf : 19
+envi : 10
+envp : 27
+envx : 24
+eout : 31
+epep : 5
+eras : 46
+erfc : 12
+erlc : 5
+esds : 2
+espa : 5955
+esrb : 2
+etsi : 11
+etws : 22
+euid : 3
+euro : 5
+eval : 5
+evdo : 77
+even : 2059
+ever : 120
+evil : 1
+exam : 1
+excl : 9
+exec : 191
+exif : 1699
+exit : 2746
+expm : 42
+expr : 11
+extn : 15
+exts : 4
+eyes : 23
+fabs : 16
+face : 4151
+fact : 104
+fade : 5557
+faef : 1
+fail : 933
+fair : 73
+fait : 1
+fake : 154
+fall : 88
+fans : 2
+faqs : 16
+fast : 2249
+faut : 3
+fbid : 1
+fdim : 12
+fdis : 1
+fdow : 3
+fear : 1
+feat : 2
+fecb : 1
+feed : 131
+feel : 75
+fees : 9
+feet : 15
+feff : 3
+felt : 2
+ffcf : 1
+fffb : 1
+fffc : 1
+fffd : 12
+fffe : 9
+ffff : 75
+ffps : 1
+ffwd : 5
+fiat : 2
+fifo : 96
+file : 37751
+fill : 3459
+film : 25
+find : 8676
+fine : 252
+fips : 10
+fiqs : 2
+fiqz : 2
+fire : 174
+firm : 1
+firs : 4
+fish : 12
+fits : 1388
+five : 131
+flac : 49
+flag : 22868
+flat : 145
+flaw : 4
+flex : 128
+flip : 575
+flow : 12293
+fmax : 15
+fmin : 15
+fmod : 17
+fmtp : 8
+fobs : 1
+fogf : 14
+fogx : 19
+fold : 78
+font : 115544
+food : 2
+fooq : 1
+foot : 64
+ford : 2
+fore : 23
+fork : 2175
+form : 322251
+fort : 10
+fota : 7
+four : 546
+fout : 13
+fovy : 14
+fqdn : 22
+frac : 7
+frag : 32
+fran : 1
+frau : 1
+fred : 5
+free : 860
+freq : 57
+fret : 1
+frmo : 1
+frob : 1
+frog : 1
+from : 63309
+fsci : 3
+fsid : 8
+fsqu : 1
+ftps : 1
+ftyp : 1
+fuel : 2
+full : 24615
+func : 389
+fuse : 3
+fuss : 4
+fuzz : 5
+fwww : 1
+fwza : 1
+gain : 581
+game : 3416
+gaps : 32
+gate : 6
+gatt : 2108
+gave : 5
+gbrg : 17
+gday : 10
+gear : 6
+geba : 5
+gelo : 18
+gemm : 4
+genc : 2
+genf : 10
+geni : 10
+genx : 10
+getn : 30
+gets : 13458
+gids : 95
+gifs : 6
+gift : 9
+gimp : 1
+girl : 1
+gist : 1
+give : 2452
+gles : 7073
+glob : 59
+glow : 46
+glsl : 4
+glue : 790
+gmac : 1
+gnss : 1268
+goal : 64
+goat : 7
+godd : 7
+goes : 382
+gold : 4
+golf : 10
+gone : 1274
+good : 856
+goog : 3
+goto : 34
+govt : 5
+gpfe : 10
+gpfw : 4
+gpgs : 8
+gprs : 20
+grab : 70
+grad : 22
+gram : 13
+grav : 8
+gray : 99
+grbg : 17
+gred : 2
+grey : 194
+grid : 11330
+grow : 220
+gsmp : 1
+gson : 18
+gtgr : 3
+guid : 14
+gute : 1
+gyro : 13
+gzip : 291
+hack : 20
+hadn : 1
+hair : 1
+half : 518
+hall : 4
+halo : 1
+halt : 17
+hand : 386
+hang : 12
+hani : 4
+hans : 14
+hant : 8
+hard : 319
+harm : 7
+hash : 23142
+hasn : 324
+have : 14168
+hcef : 1
+hdmi : 232
+hdpi : 106
+hdtv : 2
+head : 18799
+heal : 4
+heap : 268
+hear : 16
+heat : 3
+hebr : 5
+held : 556
+help : 1565
+here : 1986
+hero : 12071
+heth : 10
+hevc : 571
+hexa : 1
+hgbk : 2
+hhhh : 2
+hhmm : 2
+hide : 5762
+hifi : 29
+high : 3686
+hint : 11500
+hits : 19
+hlcj : 2
+hlia : 1
+hmac : 101
+hogp : 3
+hogs : 1
+hola : 1
+hold : 1419
+hole : 6
+holo : 1257
+holy : 1
+home : 13478
+hong : 5
+hood : 2
+hook : 1101
+hope : 2
+hops : 13
+hora : 10
+horn : 1
+hors : 1
+horz : 3
+host : 8178
+hour : 1483
+hrpd : 3
+hrte : 221
+hspa : 17
+hubs : 5
+huge : 28
+hung : 2
+hunt : 1
+hurl : 1
+hvga : 31
+hxmf : 1
+iana : 48
+iand : 1
+ices : 1
+icmp : 16
+icon : 34661
+idct : 3
+idea : 88
+iden : 7
+ideo : 12
+idle : 1275
+idly : 6
+idna : 766
+ieee : 79
+ietf : 301
+ifmt : 5
+iget : 90
+ijkl : 1
+ikeo : 5
+ilch : 2
+imap : 20
+imei : 15
+impl : 3675
+imsi : 30
+inad : 1
+inch : 158
+incr : 65
+indx : 84
+inet : 1968
+infl : 8
+info : 64603
+init : 5616
+inst : 2
+intd : 2
+intf : 12
+intl : 53597
+into : 8946
+ints : 235
+iota : 2
+iptv : 1
+iput : 90
+iret : 1
+iron : 21
+isbn : 2
+isdb : 61
+isdn : 84
+isim : 20
+isoc : 9
+iswv : 10
+item : 163228
+iter : 31
+iuiv : 98
+iyar : 7
+jack : 36
+jake : 1
+jamo : 110
+jane : 2
+jank : 185
+jars : 1
+java : 787313
+jaxp : 41
+jazz : 1
+jcip : 1
+jcov : 1
+jdbc : 949
+jdwp : 1
+jean : 2
+jeep : 2
+jeff : 3
+jeux : 3
+jfif : 7
+jhvy : 1
+jing : 17
+jint : 2
+jjmm : 2
+jndi : 4
+joan : 1
+jobb : 2
+jobs : 1231
+john : 4
+join : 2760
+jolt : 1
+jose : 1
+josh : 4
+jpeg : 471
+json : 12914
+jsse : 31
+july : 79
+jump : 1571
+june : 80
+junk : 51
+just : 1661
+jvms : 1
+kahu : 7
+kaku : 7
+kana : 57
+kaph : 10
+kbit : 3
+kbps : 23
+keep : 4896
+keio : 1
+kept : 758
+kern : 7
+keys : 3336
+kick : 13
+kids : 13
+kill : 197
+kilo : 1
+kind : 1313
+kits : 1
+kiwi : 4
+knew : 3
+knob : 1
+know : 674
+knox : 1
+kntv : 1
+kona : 2
+kong : 2
+kprw : 2
+kpry : 2
+ktvu : 1
+kvct : 1
+kxml : 1
+labs : 20
+lack : 65
+lada : 2
+lags : 2
+laid : 1396
+lair : 2
+lamp : 1
+land : 62
+lane : 1
+lass : 2
+last : 5422
+latc : 1
+late : 77
+latf : 1
+latm : 3
+latn : 20
+lava : 1
+laws : 34
+lays : 26
+lazy : 85
+lccc : 2
+lcom : 1
+ldap : 178
+ldml : 44
+ldpi : 68
+lead : 88
+leaf : 18
+leak : 26
+lean : 18
+leap : 218
+left : 59225
+lens : 1443
+leos : 15
+less : 1485
+lest : 1
+lets : 595
+libc : 2
+libs : 62
+lies : 57
+lieu : 8
+life : 955
+lifo : 28
+lift : 3
+like : 4343
+lime : 2
+line : 9374
+lint : 75
+lire : 2
+list : 109145
+lisu : 41
+lite : 5958
+live : 4281
+llcp : 40
+llll : 1
+llvm : 2
+lnum : 3
+load : 12709
+loan : 6
+lock : 6577
+locs : 12
+logb : 17
+logd : 5
+logi : 2
+logo : 28432
+logp : 23
+logs : 214
+logv : 6
+logw : 2
+loin : 1
+loma : 5
+lomo : 2
+long : 55397
+look : 1562
+loop : 1012
+lose : 61
+loss : 298
+lost : 370
+lots : 13
+loud : 8
+love : 10
+luma : 7
+lumi : 1
+luni : 1
+lure : 1
+macs : 2
+made : 1243
+mail : 6636
+main : 20200
+make : 4025
+male : 15
+mams : 20
+mann : 1
+many : 3097
+maps : 2602
+mark : 2751
+mars : 10
+mash : 15
+mask : 5813
+mass : 103
+math : 25972
+mati : 1
+maui : 1
+mbar : 2
+mbps : 9
+mdat : 1
+mday : 1
+mdpi : 103
+meal : 1
+mean : 157
+meat : 7
+meem : 5
+meet : 241
+meid : 4
+memo : 2
+menu : 36605
+mere : 3
+mesg : 1
+mesh : 163
+meso : 18
+mess : 1
+meta : 39598
+mgbc : 2
+mgmt : 62
+mheg : 1
+miao : 15
+mice : 13
+midi : 12704
+midp : 1
+miib : 1
+mike : 2
+mild : 3
+mile : 79
+milk : 21
+mill : 27
+mils : 68
+mime : 2249
+mind : 118
+mine : 3
+minh : 1
+mini : 111
+mins : 1
+mint : 24
+minw : 2
+mips : 44
+misc : 10
+miss : 20
+mitm : 31
+mlaw : 20
+mlym : 5
+mmaa : 1
+mmap : 20
+mmhh : 2
+mmmm : 18
+mmsc : 48
+mnop : 1
+moar : 2
+mobi : 2
+mock : 13023
+mode : 59584
+modf : 12
+modi : 15
+moin : 1
+moji : 1
+mono : 117
+mood : 1
+moon : 34
+moov : 3
+more : 32246
+most : 14894
+mote : 1
+move : 4272
+mpeg : 541
+mrpd : 2
+msaa : 2
+msec : 34
+msgs : 10
+mtrl : 375
+much : 641
+mult : 133
+must : 14170
+mute : 291
+mvno : 16
+mxmf : 1
+mydb : 1
+nack : 7
+name : 371608
+nand : 14
+nano : 152
+nanp : 28
+navy : 5
+nbit : 5
+ndef : 1658
+near : 279
+need : 3744
+nemo : 5
+nend : 13
+neon : 2
+nest : 70
+netw : 3
+newb : 4
+news : 6074
+next : 18601
+nfcc : 1
+nfcf : 36
+nfkc : 63
+nfkd : 34
+ngdc : 2
+nice : 58
+nike : 18
+nine : 680
+nisi : 1
+nist : 21
+nitz : 4
+nize : 5
+nmea : 393
+nnfe : 1
+nnnn : 2
+nntp : 1
+noaa : 2
+node : 21160
+nofs : 26
+nonc : 2
+none : 25315
+noon : 85
+noop : 21
+nope : 1
+norm : 12
+nose : 5
+note : 8224
+noti : 9
+noun : 6
+ntlm : 54
+ntsc : 28
+null : 34531
+nuts : 4
+nval : 17
+oaep : 127
+obey : 81
+objs : 6
+ocsp : 82
+odbc : 12
+odds : 1
+odex : 4
+oeap : 2
+oecf : 19
+oend : 13
+offs : 4
+okay : 70
+oldh : 210
+oldl : 150
+oldt : 150
+oldw : 210
+oled : 2
+omar : 2
+omit : 63
+omni : 1
+omtp : 25
+once : 2020
+ones : 396
+onln : 5
+only : 14047
+onto : 431
+oooo : 5
+oops : 1
+opel : 2
+open : 16090
+opti : 1
+opto : 2
+opts : 130
+opus : 24
+oral : 2
+ored : 19
+orig : 145
+oscp : 2
+osen : 2
+otas : 1
+ours : 2
+outs : 4
+oval : 189
+over : 8868
+owns : 699
+pace : 2
+pack : 653
+pads : 12
+page : 25494
+paid : 57
+pain : 2
+pair : 2251
+palm : 8
+pane : 882
+para : 1344
+park : 63
+parr : 4
+part : 5365
+pass : 2299
+past : 205
+path : 18111
+pays : 5
+pbap : 1
+pcma : 5
+pcmu : 5
+pdep : 1
+pdfs : 1
+pdif : 2
+pdus : 8
+peak : 205
+peap : 7
+pear : 2
+peek : 1241
+peer : 1760
+pels : 3
+perc : 11
+perf : 1145
+perl : 14
+perm : 144
+pers : 7
+peut : 2
+pgbs : 2
+phys : 5
+pick : 1128
+pico : 23
+pict : 7
+pids : 15
+pied : 1
+pike : 2
+ping : 112
+pink : 2
+pins : 16
+pint : 13
+pios : 37
+pipe : 853
+pkcs : 419
+pkgs : 3
+pkix : 1676
+plan : 448
+play : 49810
+plmn : 49
+plou : 5
+plug : 166
+plus : 6551
+podc : 1
+pogo : 2
+poin : 1
+pojo : 3
+poke : 5
+pole : 6
+poll : 620
+poly : 16
+pool : 5093
+poor : 96
+pops : 34
+port : 2489
+pose : 166
+poss : 8
+post : 10398
+pour : 3
+pout : 6
+pown : 20
+powr : 36
+pptp : 1
+prec : 6
+pred : 18
+pref : 12748
+prep : 227
+pres : 4
+prev : 727
+prio : 23
+priv : 83
+prng : 4
+proc : 276
+prod : 3
+prof : 70
+prog : 42
+proj : 14
+prop : 595
+pros : 1
+prot : 42
+prov : 3
+prox : 2
+psds : 1
+psec : 1
+psov : 6
+pssh : 12
+pstn : 4
+psvi : 2
+pton : 9
+pugh : 7
+pull : 1627
+pump : 2
+pure : 147
+purl : 1
+push : 6957
+puts : 113
+qaaa : 1
+qabx : 1
+qaph : 5
+qcif : 20
+qcom : 18
+qemu : 9
+qoph : 5
+qqqq : 5
+quad : 61
+quat : 1
+quis : 1
+quit : 61
+quot : 2480
+qura : 4
+quux : 5
+qvga : 40
+qypg : 1
+qzss : 9
+rabi : 18
+race : 30
+racy : 4
+rain : 1
+ramp : 22
+rand : 13
+rank : 154
+rare : 29
+rarr : 2
+rata : 1
+rate : 1946
+rats : 6
+rbbi : 1
+rbnf : 3
+rdbm : 1
+rdev : 8
+rdwr : 10
+read : 12073
+real : 4287
+rear : 1
+rect : 21265
+recv : 9
+redo : 22
+reds : 1
+refs : 55
+reli : 1
+rely : 196
+rent : 13
+repl : 7
+reqs : 10
+resh : 5
+resp : 4
+rest : 226
+retr : 3
+retu : 2
+rfcs : 1
+rfid : 18
+rgba : 562
+rgbx : 5
+rggb : 115
+rica : 1
+rich : 114
+ride : 2
+rift : 1
+ring : 160
+rint : 31
+rise : 6
+rish : 5
+risk : 89
+rmax : 4
+rmsd : 6
+road : 7
+robo : 1
+role : 92
+roll : 227
+roof : 1
+room : 394
+root : 10778
+rows : 3816
+rqst : 8
+rscp : 1
+rsmd : 5
+rsrc : 4
+rsrp : 6
+rssi : 129
+rsub : 10
+rtld : 5
+rtsp : 7
+ruby : 1
+ruim : 20
+rule : 3306
+rull : 2
+rumi : 30
+runs : 848
+safe : 1096
+said : 44
+saka : 5
+sake : 24
+sale : 372
+salt : 89
+salz : 4
+same : 8501
+sane : 2
+sans : 134
+sant : 1
+save : 9440
+says : 28
+sbas : 18
+scan : 2463
+scsv : 4
+sdio : 1
+sdsi : 2
+seal : 14
+seam : 13
+seat : 2
+secp : 6
+secs : 12
+sede : 119
+seed : 261
+seek : 3686
+seem : 40
+seen : 296
+sees : 63
+self : 2994
+sell : 441
+semi : 174
+send : 29958
+sens : 4
+sent : 3882
+sept : 5
+serv : 15
+sets : 22021
+sfgi : 2
+sger : 18
+sget : 75
+sgml : 1
+shan : 6
+shim : 13
+shin : 5
+ship : 41
+shop : 7
+shot : 138
+show : 8582
+shut : 146
+siam : 6
+side : 7084
+sign : 3148
+simd : 1
+sine : 105
+sing : 2
+sinh : 43
+sink : 262
+sint : 21
+sirf : 5
+site : 9281
+sits : 17
+size : 75047
+skew : 92
+skim : 1
+skin : 32
+skip : 2621
+skus : 11
+slid : 23
+slim : 3
+slip : 8
+slop : 169
+slot : 384
+slow : 386
+smia : 7
+smsc : 9
+smtp : 5
+snap : 119
+snep : 4
+snip : 2
+snow : 38
+sntz : 1
+soap : 1
+sock : 44
+socs : 4
+soda : 4
+soft : 1818
+soit : 1
+sold : 3
+sole : 68
+solo : 27
+some : 13437
+song : 68
+sont : 1
+sony : 8
+soon : 296
+sora : 15
+sort : 2028
+soup : 28
+spam : 3
+spec : 33176
+spin : 49
+spir : 2
+spki : 1
+spot : 204
+spur : 1
+sput : 75
+sqrt : 121
+srcs : 75
+srgb : 237
+ssdp : 2
+ssid : 104
+sslv : 5
+sspr : 36
+ssss : 3
+sssz : 1
+ssyr : 54
+star : 258
+stat : 1287
+stax : 6
+stay : 136
+stem : 90
+step : 4733
+stmp : 7
+stmt : 9
+stop : 5641
+strm : 10
+stub : 2678
+subi : 1
+subs : 16
+such : 16005
+sudo : 6
+suid : 1
+suit : 10
+summ : 11
+sums : 4
+supl : 32
+supp : 65
+sure : 1002
+sval : 19
+svcb : 2
+svid : 19
+svox : 22
+swap : 101366
+sync : 19208
+tabs : 7940
+taco : 2
+tags : 6678
+tail : 322
+take : 4371
+tale : 1
+talk : 119
+tall : 440
+tama : 363
+tanh : 43
+taps : 33
+task : 11885
+tata : 1
+tats : 2
+taxi : 11
+tbla : 4
+tdls : 70
+teal : 12
+team : 45
+tear : 174
+tech : 11400
+tell : 500
+tels : 1
+tema : 1089
+temp : 47
+tend : 24
+tens : 4
+term : 117
+tess : 340
+test : 74788
+teth : 10
+texf : 10
+texi : 10
+texs : 20
+text : 295874
+texx : 10
+thai : 83
+tham : 71
+than : 6450
+that : 115632
+thaw : 181
+them : 3946
+then : 8748
+they : 5984
+thin : 5997
+this : 259156
+thru : 63
+thur : 2
+thus : 574
+tick : 939
+tied : 113
+tier : 486
+ties : 19
+tiff : 17
+tile : 873
+till : 18
+tilt : 35
+time : 39394
+ting : 1
+tint : 13552
+tiny : 35
+tipo : 363
+tips : 8320
+tkip : 35
+tlds : 2
+toba : 5
+todo : 32
+todp : 1
+told : 36
+tone : 2094
+took : 23
+tool : 740
+tops : 1
+torn : 32
+toss : 3
+tour : 10
+tout : 8
+town : 5
+trap : 8
+tray : 12
+tree : 13397
+trgt : 4
+trim : 4062
+trip : 23
+troy : 13
+true : 33438
+ttff : 3
+ttls : 7
+tube : 46
+tune : 132
+turn : 472
+twig : 26
+txns : 2
+txtr : 18
+type : 265865
+typo : 38
+tzdb : 5
+tzid : 4
+uamp : 1
+ubpc : 2
+ucas : 5
+ucnv : 1
+ucol : 12
+udta : 2
+ugly : 3
+uicc : 25
+uids : 21
+uint : 2590
+ulaw : 1
+uloc : 3
+ulps : 8
+umts : 36
+undo : 80
+unis : 3
+unit : 10178
+unix : 93
+uplo : 468
+upnp : 227
+upon : 972
+upto : 1
+urge : 2
+uris : 449
+urlc : 6
+urls : 184
+usar : 726
+usat : 1
+used : 26981
+user : 57537
+uses : 69196
+uset : 9
+ushr : 25
+usim : 22
+usno : 4
+usps : 2
+util : 274584
+uuid : 1647
+uuml : 2
+uvei : 1
+uypn : 1
+uzdb : 2
+vary : 338
+vast : 10
+vecs : 3
+vein : 1
+veis : 363
+verb : 44
+veri : 4
+vert : 71
+very : 662
+vhjo : 1
+vibe : 3
+vice : 214
+vida : 363
+viet : 41
+view : 961239
+visa : 70
+vise : 1
+vmad : 1
+void : 142608
+voip : 93
+volt : 13
+vote : 3
+vous : 5
+vsyn : 1
+vuln : 6
+vvvv : 11
+wait : 35922
+wake : 1227
+walk : 11
+wall : 423
+want : 3025
+warm : 59
+warn : 29
+wart : 1
+wary : 5
+wasa : 4
+wasn : 43
+watt : 13
+wave : 28
+ways : 787
+wbmp : 1
+wcag : 2
+wday : 1
+weak : 628
+wear : 33551
+webm : 72
+webp : 11
+week : 2885
+well : 1481
+went : 25
+were : 2428
+west : 9
+wgbh : 2
+wgbl : 2
+what : 3261
+when : 59978
+whim : 1
+whom : 7
+wide : 1389
+wifi : 41401
+wiki : 58
+wild : 27
+will : 41302
+wind : 9
+wins : 15
+wipe : 128
+wire : 36
+wise : 2
+wish : 272
+with : 81355
+wkst : 2
+woke : 21
+word : 619
+work : 4748
+worn : 7
+wrap : 43663
+wtih : 2
+wuxi : 18
+wvga : 33
+wxga : 6
+xapk : 2
+xcap : 7
+xdpi : 7
+xend : 8
+xfer : 37
+xfff : 5
+xito : 18
+xmpp : 12
+xneg : 14
+xnet : 1
+xoff : 145
+xolo : 1
+xoom : 8
+xpad : 3
+xpos : 17
+xptr : 6
+xslt : 60
+xuan : 17
+xvel : 3
+xxxx : 26
+xyax : 2
+xyzw : 2
+yada : 6
+yaml : 309
+yard : 41
+yday : 1
+ydpi : 7
+yeah : 2
+year : 3290
+yend : 8
+yfro : 2
+ygbi : 2
+yneg : 14
+yodh : 5
+yoff : 135
+yoga : 1
+yomi : 1
+york : 9
+your : 57192
+yoyo : 1
+ypad : 2
+ypos : 17
+yudh : 10
+yuyv : 2
+yvel : 3
+yxms : 5
+yyyy : 92
+zahn : 18
+zain : 5
+zend : 8
+zero : 3145
+zher : 54
+zhpr : 36
+zhrc : 1
+zier : 1
+zlib : 17
+zneg : 14
+zoff : 28
+zomm : 18
+zone : 6406
+zoom : 3915
+zpos : 14
+zsyr : 18
+zwsp : 2
+zzzz : 17
