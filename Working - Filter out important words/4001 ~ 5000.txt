@@ -900,18 +900,13 @@
           physically : 60
           procedures : 60
             producer : 60
-               south : 60
            subscribe : 60
            tentative : 60
               unsafe : 60
-             centers : 59
           circuiting : 59
-              cloudy : 59
              concept : 59
-            deleting : 59
             ethernet : 59
          flexibility : 59
-                glob : 59
          incorrectly : 59
          numerically : 59
             portions : 59
