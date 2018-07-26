@@ -1,25 +1,19 @@
         uncalibrated : 120
-              wishes : 120
        exceptionally : 119
-               intra : 119
         particularly : 119
                reach : 119
-              routed : 119
+              route : 119
                score : 119
                 snap : 119
       specialization : 119
-                talk : 119
                blank : 118
             contexts : 118
               differ : 118
         hierarchical : 118
-                mind : 118
              ratings : 118
              replies : 118
           structures : 118
-               visit : 118
          descriptors : 117
-                desk : 117
          expressions : 117
             grapheme : 117
                 mono : 117
@@ -30,7 +24,6 @@
                 term : 117
         transparency : 117
            vibration : 117
-                 alg : 116
             combines : 116
          exceptional : 116
                freed : 116
@@ -42,7 +35,6 @@
              shallow : 116
        significantly : 116
              unaware : 116
-               asked : 115
              deflate : 115
           enrollment : 115
          furthermore : 115
@@ -63,16 +55,13 @@
              newline : 114
                nexus : 114
               online : 114
-                rich : 114
          uncertainty : 114
              augment : 113
-                 bug : 113
            embedding : 113
        encapsulating : 113
          exclusively : 113
            organizer : 113
               pseudo : 113
-                puts : 113
               scoped : 113
                 tied : 113
           transforms : 113
@@ -81,7 +70,6 @@
            countries : 112
          dimensional : 112
              divided : 112
-               early : 112
                exits : 112
                fname : 112
                forum : 112
@@ -128,8 +116,6 @@
          distributed : 109
              drivers : 109
                favor : 109
-            friendly : 109
-             lessons : 109
             presents : 109
              towards : 109
              viewing : 109
@@ -140,16 +126,12 @@
                 deal : 108
         initializing : 108
               leaves : 108
-               meets : 108
-              owners : 108
              renders : 108
              suppose : 108
             unselect : 108
               covers : 107
              dispose : 107
         fingerprints : 107
-                 jan : 107
-              planes : 107
              prewarm : 107
             solution : 107
           unexpected : 107
